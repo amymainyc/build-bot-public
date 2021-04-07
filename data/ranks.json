@@ -1,0 +1,14 @@
+{
+    "Rookie": 0,
+    "Untrained": 100,
+    "Amateur": 250,
+    "Apprentice": 500,
+    "Experienced": 1000,
+    "Seasoned": 2000,
+    "Trained": 3500,
+    "Skilled": 5000,
+    "Talented": 7500,
+    "Professional": 10000,
+    "Expert": 15000,
+    "Master": 20000
+}
