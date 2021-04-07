@@ -9,6 +9,6 @@ b.ans ch-ese-urg-r
 b.a ch-ese-urg-r
 
 ## 🏡 Other Commands
-j.help Returns the usage instructions.
-j.invite Sends the invite link for Build Bot!
-j.stats	Returns the Build Battle stats for the given player.
+j.help Returns the usage instructions.  
+j.invite Sends the invite link for Build Bot!  
+j.stats	Returns the Build Battle stats for the given player.  
