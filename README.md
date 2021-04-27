@@ -4,8 +4,8 @@ Replace underscores/missing letters with dashes (-). Do not use dashes for space
 Aliases: b.ans, b.a
 
 #### Example Usages:
-b.answer ch-ese-urg-r
-b.ans ch-ese-urg-r
+b.answer ch-ese-urg-r \
+b.ans ch-ese-urg-r \
 b.a ch-ese-urg-r
 
 ## 🏡 Other Commands
